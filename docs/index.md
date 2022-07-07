@@ -1,17 +1,6 @@
-## Bellabeats Case Study R Markdown Data Documentation
+## Bellabeats Case Study R Markdown
 
-### Markdown
-
----
-title: "Bellabeats Case Study - R Markdown"
-author: "Estelle Martin"
-date: '2022-07-03'
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+### Data Documentation
 
 #### To complete the Phase 3 process of the analysis I chose to use R to learn more about the dataset.
 
